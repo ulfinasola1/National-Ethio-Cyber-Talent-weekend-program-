@@ -58,11 +58,18 @@ cat flag5.txt
 The final flag was:
 FLAG{steghide_protected}
 
+
+
+![flag](https://github.com/ulfinasola1/National-Ethio-Cyber-Talent-weekend-program-/blob/main/INSA-weekend/challenges/WEEK2-TASK/screenshoot/flag.jpg)
+
+![flags](https://github.com/ulfinasola1/National-Ethio-Cyber-Talent-weekend-program-/blob/main/INSA-weekend/challenges/WEEK2-TASK/screenshoot/flags.jpg)
+
 Final Flags Collected
 FLAG{ALWAYS_Check_Metadata}
 FLAG{Strings_leak_information}
 FLAG{appended_zip}
 FLAG{steghide_protected}
+
 
 Tools I Used
 strings
